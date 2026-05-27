@@ -730,7 +730,6 @@ section {
   cursor: default;
   position: relative;
   overflow: hidden;
-  group: true;
 }
 
 .tech-card:hover {
